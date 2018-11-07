@@ -1,6 +1,6 @@
 Final Project Proposal
 ================
-Stephanie Izard (smi2112), Anu Kafi, Sarah Vititoe
+Stephanie Izard (smi2112), Anu Kafi, Sarah Vititoe (sev2125)
 
 Team registration and proposal (instructions)
 ---------------------------------------------
