@@ -1,6 +1,6 @@
 ---
 title: "Final Project Proposal"
-author: "Stephanie Izard, Anu Kafi, Sarah Vititoe"
+author: "Stephanie Izard (smi2112), Anu Kafi, Sarah Vititoe"
 output: github_document
 ---
 
