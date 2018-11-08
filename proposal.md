@@ -1,10 +1,9 @@
-Yelp- help us find our next favorite restaurant!
+Registration and Proposal
 ================
 Stephanie Izard (smi2112), Anu Kafi (ak4123), Sarah Vititoe (sev2125)
 
-### Team registration and proposal
-
-First, you will define your teams and propose a project. This proposal should be a half-page to a page in length and include:
+Yelp- help us find our next favorite restaurant!
+------------------------------------------------
 
 #### Motivation
 
