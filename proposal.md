@@ -23,3 +23,21 @@ We plan to
 We plan to use ggplot and plotly to create visualizations that consider geographical location, rating, and price of the restaurant in 2018 as well as longitudinally. We will also create visualizations that consider reviewer information, such as number of reviews and average rating. The primary coding challenge that we anticipate is uploading the Yelp data into R, as it is currently a JSON file and none of us are familiar with the jsonlite package yet.
 
 #### Proposed timeline
+
+November 8: Proposal Submitted – Includes motivations and initial questions to be used in the Report
+
+November 14 (Tentative): Project Review Meeting
+
+November 18: Finish data cleaning by this date and write up section in the Report on it
+
+November 21: Complete exploratory analysis and write up section in the Report on it
+
+November 28: Complete any additional analysis and write up section in the Report on it
+
+November 30: Write up Discussion section of Report
+
+December 2: Complete Webpage
+
+December 3: Record Screencast
+
+December 6: Submit Report, Webpage, and Screencast. Also, complete peer review.
