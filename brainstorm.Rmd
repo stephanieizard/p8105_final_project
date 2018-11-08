@@ -1,0 +1,15 @@
+---
+title: "Brainstorm"
+author: "Sarah Vititoe"
+date: "11/7/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+- What predicts a restaurant having a good star
+- Are there clusters of similar restaurant types together
+- Happy Hours / Specials over day of week 
+- Neighborhood income level and restaurant types
+- Most popular restaurant in your area?

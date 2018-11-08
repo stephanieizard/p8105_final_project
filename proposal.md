@@ -13,7 +13,11 @@ The motivation of this project is to use the Yelp dataset to look for trends in 
 
 We will be using the Yelp Open Dataset from 2018. [Yelp](https://www.yelp.com/) is a well known website that allows users to review and rate restaurants they've been to, so that this knowledge can be shared with others. Yelp users, or "Yelpers" have written over 163 million reviews since the website's inception in 2014, with 32 million unique users every month. This dataset was released for academic use in 2018, and can be accessed [here](https://www.yelp.com/dataset).
 
+We will use US census data to get demographic information about the neighborhoods where the restaurants are located. This data can be found [here](https://www.census.gov/data.html).
+
 #### Intended final products
+
+Our final product will be an interactive, easy to navigate website designed to help Yelp users discover information about Yelp-reviewed restaurants.
 
 #### The planned analyses, visualizations, and coding challenges
 
