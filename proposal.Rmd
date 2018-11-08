@@ -1,5 +1,5 @@
 ---
-title: "Final Project Proposal"
+title: "Yelp- help us find our next favorite restaurant!"
 author: "Stephanie Izard (smi2112), Anu Kafi (ak4123), Sarah Vititoe (sev2125)"
 output: github_document
 ---
@@ -8,7 +8,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##Team registration and proposal (instructions)
+##Team registration and proposal 
 ####First, you will define your teams and propose a project. This proposal should be a half-page to a page in length and include:
 * The group members (names and UNIs)
 * The tentative project title
