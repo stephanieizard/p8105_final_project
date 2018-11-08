@@ -29,3 +29,21 @@ We plan to use ggplot and plotly to create visualizations that consider geograph
 
 ####Proposed timeline
 
+November 8: Proposal Submitted – Includes motivations and initial questions to be used in the Report
+
+November 14 (Tentative): Project Review Meeting 
+
+November 18: Finish data cleaning by this date and write up section in the Report on it
+
+November 21: Complete exploratory analysis and write up section in the Report on it
+
+November 28: Complete any additional analysis and write up section in the Report on it
+
+November 30: Write up Discussion section of Report
+
+December 2: Complete Webpage
+
+December 3: Record Screencast
+
+December 6: Submit Report, Webpage, and Screencast. Also, complete peer review. 
+
