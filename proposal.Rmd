@@ -1,5 +1,5 @@
 ---
-title: "Registration and Proposal "
+title: "Registration and Proposal"
 author: "Stephanie Izard (smi2112), Anu Kafi (ak4123), Sarah Vititoe (sev2125)"
 output: github_document
 ---
